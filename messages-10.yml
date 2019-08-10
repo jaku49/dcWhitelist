@@ -1,0 +1,12 @@
+version: '1.0' #nie ruszaj
+messages:
+  game:
+    kick: §cNie jesteś na whiteliście.\n§7Wejdź na serwer discord §9link do discorda\n§7i
+      wyślij wiadomość na kanale 'whitelist' o treści '!whitelist {PLAYER}'
+  discord:
+    registered: Przykro nam, takie konto jest już zarejestrowane na Ciebie.
+    added: Konto o nicku **{PLAYER}** zostało dodane do whitelisty, możesz już wejść
+      na serwer.
+    usage: 'Poprawne użycie: **!whitelist <gracz>**'
+    limit: Wyczerpałeś limit kont na whitelist. Obecny limit kont wynosi 2.
+    log: '@{DCUSER} dodał gracza {PLAYER}'
