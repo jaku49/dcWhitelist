@@ -5,7 +5,7 @@ dcWhitelist - skrypt dodający białą listę działająca na zasadzie dodawania
 Funkcje:
 🟢 dodawanie i usuwanie gracza z whitelisty komendą na poziomie gry;
 
-🟢 kickowanie w przypadku usunięcia z whitelisty;
+🟢 kckowanie w przypadku usunięcia z whitelisty;
 
 🟢 plik konfiguracyjny (cofig.yml) oraz plik wiadomości (messages.yml);
 
