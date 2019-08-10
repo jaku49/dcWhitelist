@@ -2,7 +2,7 @@
 dcWhitelist - skrypt dodający białą listę działająca na zasadzie dodawania gracza przy pomocy serwera Discord.
 
 
-#Funkcje:
+Funkcje:
 🟢 dodawanie i usuwanie gracza z whitelisty komendą na poziomie gry;
 
 🟢 kickowanie w przypadku usunięcia z whitelisty;
@@ -11,7 +11,7 @@ dcWhitelist - skrypt dodający białą listę działająca na zasadzie dodawania
 
 🟢 sprawdzanie czy jest dostępna aktualizacja;
 
-#Do zrobienia "TODO":
+Do zrobienia "TODO":
 🟠 resetowanie limit kont przypisanych do jednego użytkownika Discorda;
 
 🟠 automatyczne aktualizacje;
