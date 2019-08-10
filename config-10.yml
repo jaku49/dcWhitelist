@@ -1,0 +1,10 @@
+version: '1.0' #nie ruszaj
+config:
+  link: zaproszenie
+  token: token bota 
+  name: dcWhitelist #to w sumie nic nie robi
+  log:
+    status: 'true'
+    id: 'id kanalu do logow'
+  command:
+    id: 'id kanalu do wpisywania komendy'
